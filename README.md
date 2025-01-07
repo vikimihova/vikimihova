@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimihova&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimihova&hide=prs,issues,contribs&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![vikimihova's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikimihova&theme=react&show_icons=true&hide_border=true&layout=compact)
 
