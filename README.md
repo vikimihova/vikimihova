@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikimihova&hide=prs,contribs&theme=blue_navy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![vikimihova's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikimihova&theme=blue_navy&show_icons=true&hide_border=true&layout=compact)
+<a href="#">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=vikimihova&hide=prs&theme=swift&show_icons=true" />
+</a>
+<a href="#">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikimihova&theme=swift&show_icons=true&hide_border=true&layout=compact" />
+</a>
 
