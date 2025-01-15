@@ -19,15 +19,13 @@ Here are some ideas to get you started:
 - 🔭 Meanwhile, I’m working towards my next goal of balancing out my stack by improving my front-end programming skills in JavaScript and learning ReactJS as well.
 
 Recently, I’ve completed the full C# Web Development track at SoftUni. Over the course of 2 years, I’ve gained practical knowledge in the following languages and technologies:
+- C#, JavaScript, HTML, CSS
+- .NET, ASP.NET Core MVC, Entity Framework Core
+- MS SQL Server
 
-### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cs,js,html,css)](https://skillicons.dev) <br/>
 
-### Frameworks
-.NET, ASP.NET Core MVC, Entity Framework Core
 
-### Databases
-MS SQL Server
 
 
 
