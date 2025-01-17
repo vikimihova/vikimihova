@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently enrolled in a “DevOps for Developers” course at SoftUni, with a focus on version control, CI/CD pipelines, clouds, and containers. 
-- 🔭 Meanwhile, I’m working towards my next goal of balancing out my stack by improving my front-end programming skills in JavaScript and learning ReactJS as well.
+- 🌱 I’m currently enrolled in a “DevOps for Developers” course at SoftUni, with a focus on version control, CI/CD pipelines, clouds, and containers.
 
+<!--
+- 🔭 Meanwhile, I’m working towards my next goal of balancing out my stack by improving my front-end programming skills in JavaScript and learning ReactJS as well.
+-->
 Recently, I’ve completed the full C# Web Development track at SoftUni. Over the course of 2 years, I’ve gained practical knowledge in the following languages and technologies:
 - C#, JavaScript, HTML, CSS
 - .NET, ASP.NET Core MVC, Entity Framework Core
