@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,js)](https://skillicons.dev) <br/> [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) <br/>
 
-### Hi there,
+### Welcome to my GitHub profile
 
-<!--I've graduated from SoftUni as a Software Engineer with C#.<br/> --> My focus is on .NET technologies in combination with relational databases, <br/> with some hands-on experience with front-end development, CI/CD, containers and clouds. <br/>
+<!--I've graduated from SoftUni as a Software Engineer with C#.<br/> --> 
+My focus is on .NET technologies paired with relational databases.<br/>I also have some hands-on experience in front-end development,<br/>CI/CD processes, containerization, and cloud technologies.<br/>
 <br/>
 
 <a href="#">
