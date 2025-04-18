@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there,
 **vikimihova/vikimihova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,16 +14,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+📚 Passionate about building responsive web apps and writing clean, maintainable code.
 -->
-I’ve completed the full C# track at SoftUni.<br/> Over the course of 2 years, I’ve gained practical knowledge in the following languages and technologies:
-- C#, JavaScript, HTML, CSS
-- .NET, ASP.NET Core MVC, Entity Framework Core
-- MS SQL Server
 
-What's next:
-- 🌱 I’m currently enrolled in a SoftUni course with a focus on version control, CI/CD pipelines, clouds, and containers.
+[![My Skills](https://skillicons.dev/icons?i=cs,js)](https://skillicons.dev) <br/> [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css)](https://skillicons.dev) <br/>
+### Hi there,
+
+<!--I've graduated from SoftUni as a Software Engineer with C#.<br/> --> My focus is on .NET technologies in combination with relational databases, <br/> with some hands-on experience with front-end development, CI/CD, containers and clouds. 
+
+
 
 
 <a href="#">
