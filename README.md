@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 
 ### Hi there,
 
-<!--I've graduated from SoftUni as a Software Engineer with C#.<br/> --> My focus is on .NET technologies in combination with relational databases, <br/> with some hands-on experience with front-end development, CI/CD, containers and clouds. 
-
-
-
+<!--I've graduated from SoftUni as a Software Engineer with C#.<br/> --> My focus is on .NET technologies in combination with relational databases, <br/> with some hands-on experience with front-end development, CI/CD, containers and clouds. <br/>
+<br/>
 
 <a href="#">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=vikimihova&hide=prs&theme=swift&show_icons=true" />
