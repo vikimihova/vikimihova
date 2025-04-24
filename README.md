@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Welcome to my GitHub profile
 
 <!--I've graduated from SoftUni as a Software Engineer with C#.<br/> --> 
-My focus is on .NET technologies paired with relational databases.<br/>I also have some hands-on experience in front-end development,<br/>CI/CD processes, containerization, and cloud technologies.<br/>
+My focus is on .NET technologies for web apps with relational databases.<br/>I also have some hands-on experience in front-end development,<br/>CI/CD processes, containerization, and cloud technologies.<br/>
 <br/>
 
 <a href="#">
