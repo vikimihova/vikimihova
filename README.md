@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 My focus is on .NET technologies for web apps and relational databases.<br/>I also have some hands-on experience in front-end development,<br/>CI/CD processes, containerization, and cloud technologies.<br/>
 <br/>
 
+<!--
 <a href="#">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=vikimihova&hide=prs&theme=swift&show_icons=true" />
 </a>
 <a href="#">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikimihova&theme=swift&show_icons=true&hide_border=true&layout=compact" />
-</a>  
+</a>  -->
 
